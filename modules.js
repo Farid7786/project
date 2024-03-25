@@ -1,0 +1,5 @@
+const names = require('./names')
+const sayhi = require('./utils')
+ //sayhi('Susan')
+ //sayhi(names.jhon)
+ //sayhi(names.peter)
